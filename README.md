@@ -2,7 +2,9 @@
 
 [![NPM package][npm]][npm-url]
 
-Library for interactive SVG drawing applications
+*This project was discontinued in favor of [daign-2d-graphics](https://github.com/daign/daign-2d-graphics)!*
+
+Library for interactive SVG drawing applications.
 
 ## Installation
 
@@ -10,9 +12,11 @@ Library for interactive SVG drawing applications
 npm install svg-live-drawing --save
 ```
 
-## Usage
+## Demo
 
-[Examples can be found here.][examples-url]
+[Online demo can be found here.][examples-url]
+
+![screenshot](./screenshot.png)
 
 ## Scripts
 
